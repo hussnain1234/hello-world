@@ -1,4 +1,2 @@
 # hello-world
-To know about github
-To understand the concept of branching in git 
-I'm typing some more lines to make difference between the main and this branch
+I have made some changes in the master which are different than when new_branch was created and I'm going to commit and push these changes to remote repository. 
